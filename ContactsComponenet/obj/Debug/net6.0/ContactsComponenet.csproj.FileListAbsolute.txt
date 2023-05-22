@@ -1,0 +1,92 @@
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\bin\Debug\net6.0\ContactsComponenet.staticwebassets.runtime.json
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\bin\Debug\net6.0\ContactsComponenet.deps.json
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\bin\Debug\net6.0\ContactsComponenet.dll
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\bin\Debug\net6.0\ContactsComponenet.pdb
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets\msbuild.ContactsComponenet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets\msbuild.build.ContactsComponenet.props
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ContactsComponenet.props
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ContactsComponenet.props
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\scopedcss\bundle\ContactsComponenet.styles.css
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\scopedcss\projectbundle\ContactsComponenet.bundle.scp.css
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.dll
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\refint\ContactsComponenet.dll
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.pdb
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ref\ContactsComponenet.dll
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\bin\Debug\net6.0\ContactsComponenet.staticwebassets.runtime.json
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\bin\Debug\net6.0\ContactsComponenet.deps.json
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\bin\Debug\net6.0\ContactsComponenet.dll
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\bin\Debug\net6.0\ContactsComponenet.pdb
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.AssemblyInfo.cs
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets\msbuild.ContactsComponenet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets\msbuild.build.ContactsComponenet.props
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ContactsComponenet.props
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ContactsComponenet.props
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\scopedcss\bundle\ContactsComponenet.styles.css
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\scopedcss\projectbundle\ContactsComponenet.bundle.scp.css
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.dll
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\refint\ContactsComponenet.dll
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.pdb
+C:\Users\hp\Desktop\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ref\ContactsComponenet.dll
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\bin\Debug\net6.0\ContactsComponenet.staticwebassets.runtime.json
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\bin\Debug\net6.0\ContactsComponenet.deps.json
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\bin\Debug\net6.0\ContactsComponenet.dll
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\bin\Debug\net6.0\ContactsComponenet.pdb
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.AssemblyInfo.cs
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\staticwebassets\msbuild.ContactsComponenet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\staticwebassets\msbuild.build.ContactsComponenet.props
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ContactsComponenet.props
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ContactsComponenet.props
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\scopedcss\bundle\ContactsComponenet.styles.css
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\scopedcss\projectbundle\ContactsComponenet.bundle.scp.css
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.dll
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\refint\ContactsComponenet.dll
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.pdb
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactsComponenet\obj\Debug\net6.0\ref\ContactsComponenet.dll
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\bin\Debug\net6.0\ContactsComponenet.staticwebassets.runtime.json
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\bin\Debug\net6.0\ContactsComponenet.deps.json
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\bin\Debug\net6.0\ContactsComponenet.dll
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\bin\Debug\net6.0\ContactsComponenet.pdb
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.AssemblyInfo.cs
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets\msbuild.ContactsComponenet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets\msbuild.build.ContactsComponenet.props
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ContactsComponenet.props
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ContactsComponenet.props
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\scopedcss\Component1.razor.rz.scp.css
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\scopedcss\bundle\ContactsComponenet.styles.css
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\scopedcss\projectbundle\ContactsComponenet.bundle.scp.css
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.dll
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\refint\ContactsComponenet.dll
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.pdb
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ref\ContactsComponenet.dll

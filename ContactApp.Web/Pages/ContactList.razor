@@ -1,0 +1,27 @@
+﻿@attribute [Authorize]
+@page "/"
+@inherits ContactListBase
+
+<h3>Selected Contacts Count - @SelectedContactsCount</h3>
+<input type="checkbox" id="showfooter" @bind="ShowFooter" />
+<label for="showFooter">Show Footer</label>
+@*<div class="form-inline mb-3">
+    <button class="btn btn-outline-primary" type="button" @onclick="GetContactList">Get All Contacts</button>
+</div>*@
+
+@if (Contacts == null)
+{
+    //<div class="spinner"></div>
+} else
+{
+    <div class="card-deck">
+        @foreach (var contact in Contacts)
+        {
+           <DisplayContact Contact="contact" ShowFooter="ShowFooter"
+               OnContactSelection="ContactSelectionChanged"
+               OnContactDeleted="ContactDeleted"></DisplayContact>
+        }
+    </div>
+
+}
+

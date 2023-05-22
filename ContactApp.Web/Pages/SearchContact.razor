@@ -1,0 +1,10 @@
+﻿@page "/SearchContact"
+@inherits SearchContactBase
+
+<h3>Search Contact</h3>
+<div class="form-group">
+    <label for="name">Name:</label>
+    <input type="text" class="form-control" id="name" value="@Name" @onchange="@(e=>{Name = e.Value.ToString();})">
+</div>
+
+<button class="btn btn-outline-primary" type="button" @onclick="SearchContactByName">Search</button>

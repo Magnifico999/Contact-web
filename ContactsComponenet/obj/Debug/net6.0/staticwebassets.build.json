@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "kO4KQhkq9LOFwaHDlbfcxV9taZgzcESb43qKMtfkTxI=",
+  "Source": "ContactsComponenet",
+  "BasePath": "_content/ContactsComponenet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ContactsComponenet\\wwwroot",
+      "Source": "ContactsComponenet",
+      "ContentRoot": "C:\\Users\\hp\\Downloads\\Assignments\\ContactAppModels\\ContactsComponenet\\wwwroot\\",
+      "BasePath": "_content/ContactsComponenet",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\hp\\Downloads\\Assignments\\ContactAppModels\\ContactsComponenet\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ContactsComponenet.styles.css",
+      "SourceId": "ContactsComponenet",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\hp\\Downloads\\Assignments\\ContactAppModels\\ContactsComponenet\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/ContactsComponenet",
+      "RelativePath": "ContactsComponenet.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hp\\Downloads\\Assignments\\ContactAppModels\\ContactsComponenet\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ContactsComponenet.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Downloads\\Assignments\\ContactAppModels\\ContactsComponenet\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ContactsComponenet.bundle.scp.css",
+      "SourceId": "ContactsComponenet",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\hp\\Downloads\\Assignments\\ContactAppModels\\ContactsComponenet\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/ContactsComponenet",
+      "RelativePath": "ContactsComponenet.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\hp\\Downloads\\Assignments\\ContactAppModels\\ContactsComponenet\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ContactsComponenet.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Downloads\\Assignments\\ContactAppModels\\ContactsComponenet\\wwwroot\\background.png",
+      "SourceId": "ContactsComponenet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Downloads\\Assignments\\ContactAppModels\\ContactsComponenet\\wwwroot\\",
+      "BasePath": "_content/ContactsComponenet",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Downloads\\Assignments\\ContactAppModels\\ContactsComponenet\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "ContactsComponenet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Downloads\\Assignments\\ContactAppModels\\ContactsComponenet\\wwwroot\\",
+      "BasePath": "_content/ContactsComponenet",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

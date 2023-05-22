@@ -1,0 +1,48 @@
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactAppModels\bin\Debug\net6.0\ContactAppModels.deps.json
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactAppModels\bin\Debug\net6.0\ContactAppModels.dll
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactAppModels\bin\Debug\net6.0\ContactAppModels.pdb
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.dll
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactAppModels\obj\Debug\net6.0\refint\ContactAppModels.dll
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.pdb
+C:\Users\Decagon\source\repos\Proj\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ref\ContactAppModels.dll
+C:\Users\hp\Desktop\ContactAppModels\ContactAppModels\bin\Debug\net6.0\ContactAppModels.deps.json
+C:\Users\hp\Desktop\ContactAppModels\ContactAppModels\bin\Debug\net6.0\ContactAppModels.dll
+C:\Users\hp\Desktop\ContactAppModels\ContactAppModels\bin\Debug\net6.0\ContactAppModels.pdb
+C:\Users\hp\Desktop\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.AssemblyInfo.cs
+C:\Users\hp\Desktop\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.dll
+C:\Users\hp\Desktop\ContactAppModels\ContactAppModels\obj\Debug\net6.0\refint\ContactAppModels.dll
+C:\Users\hp\Desktop\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.pdb
+C:\Users\hp\Desktop\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ref\ContactAppModels.dll
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactAppModels\bin\Debug\net6.0\ContactAppModels.deps.json
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactAppModels\bin\Debug\net6.0\ContactAppModels.dll
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactAppModels\bin\Debug\net6.0\ContactAppModels.pdb
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactAppModels\obj\Debug\net6.0\ContactAppModels.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactAppModels\obj\Debug\net6.0\ContactAppModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactAppModels\obj\Debug\net6.0\ContactAppModels.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactAppModels\obj\Debug\net6.0\ContactAppModels.AssemblyInfo.cs
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactAppModels\obj\Debug\net6.0\ContactAppModels.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactAppModels\obj\Debug\net6.0\ContactAppModels.dll
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactAppModels\obj\Debug\net6.0\refint\ContactAppModels.dll
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactAppModels\obj\Debug\net6.0\ContactAppModels.pdb
+C:\Users\hp\Desktop\ContactAppModels - Copy\ContactAppModels\obj\Debug\net6.0\ref\ContactAppModels.dll
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactAppModels\bin\Debug\net6.0\ContactAppModels.deps.json
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactAppModels\bin\Debug\net6.0\ContactAppModels.dll
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactAppModels\bin\Debug\net6.0\ContactAppModels.pdb
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.AssemblyInfo.cs
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.dll
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactAppModels\obj\Debug\net6.0\refint\ContactAppModels.dll
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ContactAppModels.pdb
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactAppModels\obj\Debug\net6.0\ref\ContactAppModels.dll
