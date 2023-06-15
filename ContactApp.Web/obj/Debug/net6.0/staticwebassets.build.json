@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FqzDNl1+Q0sWu3lt/FEP4bsSYHBPPwWdOgXm0Ff6UAQ=",
+  "Hash": "PJBIzw6PFWOoZ3qMC3EwYtbiHihKTplbyJY9xUh9Nvs=",
   "Source": "ContactApp.Web",
   "BasePath": "_content/ContactApp.Web",
   "Mode": "Default",
@@ -1122,6 +1122,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Downloads\\Assignments\\ContactAppModels\\ContactApp.Web\\wwwroot\\css\\Design.css",
+      "SourceId": "ContactApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Downloads\\Assignments\\ContactAppModels\\ContactApp.Web\\wwwroot\\",
+      "BasePath": "_content/ContactApp.Web",
+      "RelativePath": "css/Design.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Design.css"
     },
     {
       "Identity": "C:\\Users\\hp\\Downloads\\Assignments\\ContactAppModels\\ContactApp.Web\\wwwroot\\css\\grid.css",

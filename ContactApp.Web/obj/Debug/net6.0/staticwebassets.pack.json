@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets\\Images\\sodiq.jpg"
     },
     {
+      "Id": "C:\\Users\\hp\\Downloads\\Assignments\\ContactAppModels\\ContactApp.Web\\wwwroot\\css\\Design.css",
+      "PackagePath": "staticwebassets\\css\\Design.css"
+    },
+    {
       "Id": "C:\\Users\\hp\\Downloads\\Assignments\\ContactAppModels\\ContactApp.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },

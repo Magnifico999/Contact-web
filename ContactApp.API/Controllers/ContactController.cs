@@ -1,9 +1,6 @@
 ﻿using ContactApp.API.Models;
 using ContactAppModels;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.RazorPages;
-using Serilog;
 
 namespace ContactApp.API.Controllers
 {
