@@ -268,10 +268,11 @@ C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.API\obj\Debug\net6
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.API\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.API\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.API\obj\Debug\net6.0\scopedcss\bundle\ContactApp.API.styles.css
-C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.API\obj\Debug\net6.0\ContactApp.API.csproj.CopyComplete
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.API\obj\Debug\net6.0\ContactApp.API.dll
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.API\obj\Debug\net6.0\refint\ContactApp.API.dll
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.API\obj\Debug\net6.0\ContactApp.API.pdb
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.API\obj\Debug\net6.0\ContactApp.API.genruntimeconfig.cache
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.API\obj\Debug\net6.0\ref\ContactApp.API.dll
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.API\bin\Debug\net6.0\Serilog.dll
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.API\obj\Debug\net6.0\ContactApp.API.sourcelink.json
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.API\obj\Debug\net6.0\ContactA.6E2033ED.Up2Date

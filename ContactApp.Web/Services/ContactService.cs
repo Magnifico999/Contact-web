@@ -29,8 +29,25 @@ namespace ContactApp.Web.Services
         }
         public async Task<IEnumerable<Contact>> GetAllContacts()
         {
-            return await httpClient.GetFromJsonAsync<Contact[]>($"api/Contact/Contacts");
+            try
+            {
+                var response = await httpClient.GetAsync($"api/Contact/Contacts");
+                response.EnsureSuccessStatusCode(); // This throws if the status code is not 2xx
+                return await response.Content.ReadFromJsonAsync<IEnumerable<Contact>>();
+            }
+            catch (HttpRequestException httpEx)
+            {
+                // Log the error (optional) and handle the failure
+                Console.WriteLine($"Error fetching contacts: {httpEx.Message}");
+                return Enumerable.Empty<Contact>(); // Return an empty list on failure
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Unexpected error: {ex.Message}");
+                return Enumerable.Empty<Contact>();
+            }
         }
+
 
         public async Task<Contact> GetContact(int id)
         {

@@ -13,8 +13,17 @@ namespace ContactApp.Web.Pages
 
         protected override async Task OnInitializedAsync()
         {
-            Contacts = (await ContactService.GetAllContacts()).ToList();
+            try
+            {
+                Contacts = (await ContactService.GetAllContacts()).ToList();
+            }
+            catch (Exception ex)
+            {
+                // Handle the exception, show a message, etc.
+                Console.WriteLine($"Error initializing contacts: {ex.Message}");
+            }
         }
+
 
 
         public Contact Contact { get; set; }

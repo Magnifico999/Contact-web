@@ -51,8 +51,8 @@ namespace ContactApp.API.Controllers
         [HttpPost("add")] 
         public async  Task<ActionResult<Contact>> AddContact(Contact contact)
         {
-            try
-            {
+            //try
+            //{
                 if (contact == null)
 
                     return BadRequest();
@@ -70,11 +70,11 @@ namespace ContactApp.API.Controllers
                 var CreatedContact = await _contactRepository.AddContact(contact);
 
                 return CreatedAtAction(nameof(AddContact), new { id = CreatedContact.Id }, CreatedContact);
-            }
-            catch (Exception)
-            {
-                return StatusCode(StatusCodes.Status500InternalServerError, "Error creating new contact record");
-            }
+            //}
+            //catch (Exception)
+            //{
+            //    return StatusCode(StatusCodes.Status500InternalServerError, "Error creating new contact record");
+            //}
         }
          
         [HttpPut("Update")] 

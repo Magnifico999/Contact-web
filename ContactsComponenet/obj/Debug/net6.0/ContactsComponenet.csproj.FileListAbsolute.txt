@@ -90,3 +90,4 @@ C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\refint\ContactsComponenet.dll
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.pdb
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ref\ContactsComponenet.dll
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactsComponenet\obj\Debug\net6.0\ContactsComponenet.sourcelink.json

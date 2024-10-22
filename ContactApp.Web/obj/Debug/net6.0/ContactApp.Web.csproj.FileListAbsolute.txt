@@ -934,9 +934,10 @@ C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.Web\obj\Debug\net6
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.Web\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.Web\obj\Debug\net6.0\scopedcss\bundle\ContactApp.Web.styles.css
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.Web\obj\Debug\net6.0\scopedcss\projectbundle\ContactApp.Web.bundle.scp.css
-C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.Web\obj\Debug\net6.0\ContactApp.Web.csproj.CopyComplete
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.Web\obj\Debug\net6.0\ContactApp.Web.dll
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.Web\obj\Debug\net6.0\refint\ContactApp.Web.dll
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.Web\obj\Debug\net6.0\ContactApp.Web.pdb
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.Web\obj\Debug\net6.0\ContactApp.Web.genruntimeconfig.cache
 C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.Web\obj\Debug\net6.0\ref\ContactApp.Web.dll
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.Web\obj\Debug\net6.0\ContactApp.Web.sourcelink.json
+C:\Users\hp\Downloads\Assignments\ContactAppModels\ContactApp.Web\obj\Debug\net6.0\ContactA.812A230F.Up2Date
